@@ -2,11 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Kozhukh-Vasyl.github.io/goit-js-hw-10",
-  "scripts": {
-    "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
-  },
+  "homepage": "https://Kozhukh-Vasyl.github.io/goit-js-hw-10/",
+"scripts": {
+  "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kozhukh-Vasyl/goit-js-hw-10.git"
